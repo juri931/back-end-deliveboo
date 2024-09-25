@@ -28,3 +28,5 @@ Dettagli ordine
 Statistiche
 ![alt text](<screenshots/Screenshot 2024-09-25 112728.png>)
 ![alt text](<screenshots/Screenshot 2024-09-25 112754.png>)
+
+<a href='https://github.com/juri931/front-end-deliveboo' target='_blank'>Vai al Front End</a>
